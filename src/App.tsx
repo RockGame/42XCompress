@@ -242,6 +242,6 @@ export default function App() {
       </section>
       <div className="format-note">{t.outputNote} <span>{t.formatNotice}</span></div>
     </main>
-    <footer className="footer"><a href="https://github.com/" target="_blank" rel="noreferrer">{t.source}</a><span>{t.footer}</span><span className="footer-brand">42X <i>LAB</i></span></footer>
+    <footer className="footer"><a href="https://github.com/RockGame/42XCompress" target="_blank" rel="noreferrer">{t.source}</a><span>{t.footer}</span><span className="footer-brand">42X <i>LAB</i></span></footer>
   </div>;
 }
